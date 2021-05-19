@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataMapper", "DataMapper\DataMapper.csproj", "{BCB5A005-BD8F-4D99-8DE4-A80D372A574F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMapperTest", "DataMapperTest\DataMapperTest.csproj", "{1EA9F6B7-B72B-4879-B859-4B2425ECF544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB5A005-BD8F-4D99-8DE4-A80D372A574F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB5A005-BD8F-4D99-8DE4-A80D372A574F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB5A005-BD8F-4D99-8DE4-A80D372A574F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB5A005-BD8F-4D99-8DE4-A80D372A574F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA9F6B7-B72B-4879-B859-4B2425ECF544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA9F6B7-B72B-4879-B859-4B2425ECF544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA9F6B7-B72B-4879-B859-4B2425ECF544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA9F6B7-B72B-4879-B859-4B2425ECF544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13257217-056C-42EE-AB50-7765DEDF5616}
+	EndGlobalSection
+EndGlobal

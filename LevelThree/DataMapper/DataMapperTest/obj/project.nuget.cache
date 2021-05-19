@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVkj5Qcstab6DA0O9tcIiFZRiOoxVqU5DpgUkBWOT4i+7ffXCQouwVGDYGo2V282dSiyazb3FVAiuSmHvMMCkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\777\\Desktop\\Projects\\ADO.NET\\ADO.NET\\LevelThree\\DataMapper\\DataMapperTest\\DataMapperTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\777\\.nuget\\packages\\npgsql\\5.0.5\\npgsql.5.0.5.nupkg.sha512",
+    "C:\\Users\\777\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

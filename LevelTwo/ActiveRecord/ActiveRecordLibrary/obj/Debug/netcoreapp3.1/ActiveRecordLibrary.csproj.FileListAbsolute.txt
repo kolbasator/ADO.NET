@@ -1,0 +1,5 @@
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelTwo\ActiveRecord\ActiveRecordLibrary\bin\Debug\netcoreapp3.1\ActiveRecordLibrary.deps.json
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelTwo\ActiveRecord\ActiveRecordLibrary\bin\Debug\netcoreapp3.1\ActiveRecordLibrary.dll
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelTwo\ActiveRecord\ActiveRecordLibrary\obj\Debug\netcoreapp3.1\ActiveRecordLibrary.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelTwo\ActiveRecord\ActiveRecordLibrary\obj\Debug\netcoreapp3.1\ActiveRecordLibrary.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelTwo\ActiveRecord\ActiveRecordLibrary\obj\Debug\netcoreapp3.1\ActiveRecordLibrary.AssemblyInfo.cs

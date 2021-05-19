@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "29Wec3fWY2QKt8SXLRkgy/fVKl19lNmXJlqoPmhdob6pFbCWB9Qsp5E4RAktRC+bhVyf5aZ7UkQR9nNPhZNGPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\777\\Desktop\\Projects\\ADO.NET\\LevelOne\\Task3\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\777\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\777\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

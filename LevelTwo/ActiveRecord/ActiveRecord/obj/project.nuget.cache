@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7hr7ux/RDsqYnkrm7LYsALvqsFgL4ZbmtzxqbgdHBdYzTQrJhAhVl8ay7SQ5JTbIDVIVStYr/GKxNrV1thgrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\777\\Desktop\\Projects\\ADO.NET\\ADO.NET\\LevelTwo\\ActiveRecord\\ActiveRecord\\ActiveRecord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\777\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\777\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

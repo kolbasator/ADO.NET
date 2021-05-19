@@ -1,0 +1,9 @@
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelThree\DataMapper\DataMapper\bin\Debug\netcoreapp3.1\DataMapper.deps.json
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelThree\DataMapper\DataMapper\bin\Debug\netcoreapp3.1\DataMapper.dll
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelThree\DataMapper\DataMapper\obj\Debug\netcoreapp3.1\DataMapper.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelThree\DataMapper\DataMapper\obj\Debug\netcoreapp3.1\DataMapper.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelThree\DataMapper\DataMapper\obj\Debug\netcoreapp3.1\DataMapper.AssemblyInfo.cs
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelThree\DataMapper\DataMapper\bin\Debug\netcoreapp3.1\DataMapper.pdb
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelThree\DataMapper\DataMapper\obj\Debug\netcoreapp3.1\DataMapper.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelThree\DataMapper\DataMapper\obj\Debug\netcoreapp3.1\DataMapper.dll
+C:\Users\777\Desktop\Projects\ADO.NET\ADO.NET\LevelThree\DataMapper\DataMapper\obj\Debug\netcoreapp3.1\DataMapper.pdb
